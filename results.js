@@ -1,139 +1,139 @@
 const results = {
   "10001": {
-    "Positive": 113,
-      "Total": 265
+    "Positive": 179,
+      "Total": 364
   },
   "10002": {
-    "Positive": 250,
-      "Total": 542
+    "Positive": 405,
+      "Total": 792
   },
   "10003": {
-    "Positive": 161,
-      "Total": 379
+    "Positive": 23,
+      "Total": 543
   },
   "10004": {
-    "Positive": 16,
-      "Total": 38
+    "Positive": 20,
+      "Total": 45
   },
   "10005": {
-    "Positive": 25,
-      "Total": 81
+    "Positive": 32,
+      "Total": 103
   },
   "10006": {
-    "Positive": 6,
-      "Total": 24
+    "Positive": 8,
+      "Total": 33
   },
   "10007": {
-    "Positive": 26,
-      "Total": 67
+    "Positive": 30,
+      "Total": 86
   },
   "10009": {
-    "Positive": 181,
-      "Total": 450
+    "Positive": 298,
+      "Total": 662
   },
   "10010": {
-    "Positive": 101,
-      "Total": 282
+    "Positive": 133,
+      "Total": 377
   },
   "10011": {
-    "Positive": 222,
-      "Total": 487
+    "Positive": 308,
+      "Total": 649
   },
   "10012": {
-    "Positive": 68,
-      "Total": 183
+    "Positive": 86,
+      "Total": 241
   },
   "10013": {
-    "Positive": 122,
-      "Total": 255
+    "Positive": 131,
+      "Total": 301
   },
   "10014": {
-    "Positive": 140,
-      "Total": 305
+    "Positive": 186,
+      "Total": 391
   },
   "10016": {
-    "Positive": 288,
-      "Total": 581
+    "Positive": 344,
+      "Total": 814
   },
   "10017": {
     "Positive": 45,
       "Total": 138
   },
   "10018": {
-    "Positive": 66,
-      "Total": 151
+    "Positive": 116,
+      "Total": 251
   },
   "10019": {
-    "Positive": 187,
-      "Total": 451
+    "Positive": 264,
+      "Total": 616
   },
   "10021": {
-    "Positive": 211,
-      "Total": 562
+    "Positive": 295,
+      "Total": 771
   },
   "10022": {
-    "Positive": 123,
-      "Total": 339
+    "Positive": 174,
+      "Total": 461
   },
   "10023": {
-    "Positive": 190,
-      "Total": 503
+    "Positive": 269,
+      "Total": 695
   },
   "10024": {
-    "Positive": 204,
-      "Total": 641
+    "Positive": 307,
+      "Total": 841
   },
   "10025": {
-    "Positive": 252,
-      "Total": 754
+    "Positive": 433,
+      "Total": 1084
   },
   "10026": {
-    "Positive": 126,
-      "Total": 300
+    "Positive": 220,
+      "Total": 449
   },
   "10027": {
-    "Positive": 170,
-      "Total": 422
+    "Positive": 327,
+      "Total": 657
   },
   "10028": {
-    "Positive": 189,
-      "Total": 476
+    "Positive": 258,
+      "Total": 650
   },
   "10029": {
-    "Positive": 290,
-      "Total": 668
+    "Positive": 544,
+      "Total": 1070
   },
   "10030": {
-    "Positive": 106,
-      "Total": 204
+    "Positive": 186,
+      "Total": 329
   },
   "10031": {
-    "Positive": 217,
-      "Total": 405
+    "Positive": 407,
+      "Total": 670
   },
   "10032": {
-    "Positive": 308,
-      "Total": 548
+    "Positive": 508,
+      "Total": 857
   },
   "10033": {
-    "Positive": 264,
-      "Total": 495
+    "Positive": 439,
+      "Total": 730
   },
   "10034": {
-    "Positive": 108,
-      "Total": 262
+    "Positive": 212,
+      "Total": 416
   },
   "10035": {
-    "Positive": 147,
-      "Total": 345
+    "Positive": 301,
+      "Total": 580
   },
   "10036": {
-    "Positive": 116,
-      "Total": 275
+    "Positive": 189,
+      "Total": 404
   },
   "10037": {
-    "Positive": 109,
-      "Total": 204
+    "Positive": 146,
+      "Total": 282
   },
   "10038": {
     "Positive": 76,
